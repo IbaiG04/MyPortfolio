@@ -17,8 +17,8 @@
                             <span class="pl-3 pr-3 pb-3">A twitter bot that publishes a tweet every 4 hours with
                                 highlighted
                                 information about a totally random roller coaster, through the RCDB API</span>
-                            <div class=" text-left w-full pl-3">
-                                <a href="#"> <!-- CAMBIAR POR URL DEL REPO DE GITHUB -->
+                            <div class=" flex text-left w-full pl-3 items-center">
+                                <a href="#" target="_blank"> <!-- CAMBIAR POR URL DEL REPO DE GITHUB -->
                                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50"
                                         viewBox="0 0 30 30" style="fill:#FFFFFF;">
                                         <path
@@ -26,10 +26,9 @@
                                         </path>
                                     </svg>
                                 </a>
+                                <img class="w-12 pt-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
                             </div>
-                            <div class="w-14">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-                            </div>
+
                         </div>
                     </div>
                 </td>
