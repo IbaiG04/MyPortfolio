@@ -10,7 +10,7 @@
                         <div class="flex flex-col items-center justify-center text-white">
                             <div class="p-3">
                                 <a href="https://twitter.com/DailyCoasters_" target="_blank">
-                                    <img src="../../public/img/TwtterBot.png" alt="" width="300">
+                                    <img src="../../img/TwtterBot.png" alt="" width="300">
                                 </a>
                             </div>
                             <h1 class="borde-letra font-bold text-xl text-left w-full pl-3 pr-3 pb-3">Twitter Bot</h1>

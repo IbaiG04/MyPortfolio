@@ -31,8 +31,8 @@
         <h2 class="mt-2 font-semibold text-base sm:text-lg text-white">
           About
         </h2>
-        <p class="sm:mt-1 block text-sm sm:text-base text-gray-300"> Frontend developer junior apasionado por crear
-          experiencias digitales impactantes con un enfoque centrado en el usuario.
+        <p class="sm:mt-1 block text-sm sm:text-base text-gray-300"> Junior frontend developer passionate about creating
+          impactful digital experiences with a user-centric approach.
         </p>
 
       </div>
@@ -55,9 +55,9 @@
         <h2 class="mt-2 font-semibold text-base sm:text-lg text-white">
           Projects
         </h2>
-        <p class="sm:mt-1 block text-sm sm:text-base text-gray-300"> Ávido aprendiz y apasionado por mantenerse al día
-          con las últimas tendencias tecnológicas y mejores prácticas de desarrollo, comprometido con el crecimiento
-          profesional continuo y la mejora constante en el campo de la programación web.
+        <p class="sm:mt-1 block text-sm sm:text-base text-gray-300"> Avid learner and passionate about staying up to date
+          with the latest technological trends and best development practices, committed to growth
+          Continuous professional and constant improvement in the field of web programming.
         </p>
       </div>
 
