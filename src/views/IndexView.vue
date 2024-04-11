@@ -22,7 +22,7 @@
 
     </div>
     <div id="zio" class=" mb-72 flex items-center justify-center flex-col animate-bouncing">
-      <img class="w-16 mx-auto block" src="../../img/down-arrow.png" alt="">
+      <img class="w-16 mx-auto block" src="../../public/img/down-arrow.png" alt="">
 
     </div>
   </div>
