@@ -3,7 +3,7 @@
     <h2 class="text-4xl">About me</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4  p-10 ">
 
-      <div @click="handleClick" 
+      <div @click="ClickAbout" 
       @mouseover="isHovered = true" 
       @mouseleave="isHovered = false"
         :class="{ 'cursor-pointer': isHovered }"
@@ -38,7 +38,7 @@
       </div>
 
       <div
-      @click="handleClick" 
+      @click="ClickProject" 
       @mouseover="isHovered = true" 
       @mouseleave="isHovered = false"
         :class="{ 'cursor-pointer': isHovered }"
@@ -73,8 +73,11 @@ export default {
     };
   },
   methods: {
-    handleClick() {
-      console.log('El div fue clickeado')
+    ClickProject() {
+      this.$router.push('/projects');
+    },
+    ClickAbout() {
+      this.$router.push('/about');
     }
   }
 }

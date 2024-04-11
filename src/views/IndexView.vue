@@ -7,30 +7,32 @@
           portfolio</span>
       </h1>
       <span class="text-purple-500 text font-semibold">Full-Stack Web Developer</span>
-      
+
 
 
     </div>
-    <div id="zio" class=" mb-20 flex items-center justify-center flex-col animate-bouncing">
+    <div id="zio" class=" mb-52 flex items-center justify-center flex-col animate-bouncing">
       <img class="w-16 mx-auto block" src="../../public/img/down-arrow.png" alt="">
-    
+
+    </div>
   </div>
-  </div>
-  
-  
-
-  <!-- <div class="w-1/2 flex items-center justify-center">
-          <img class="w-1/2 h-1/2" src="../../public/img/main-img.svg" alt="">
-        </div> -->
-
-
+  <cardInfoVue />
 
 </template>
 
 <script>
+import cardInfoVue from '../components/cardInfo.vue'
+
 export default {
+  name: 'App',
+  components: {
+    cardInfoVue,
+
+  },
   mounted() {
     document.title = 'Portafolio';
   }
 }
+
+
 </script>
