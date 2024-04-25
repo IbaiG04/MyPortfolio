@@ -1,6 +1,6 @@
 <template>
   
-  <div class="relative overflow-hidden">
+  <div class="relative overflow-hidden bg-black">
     <img class="fixed inset-0 z-0 object-cover w-full h-full pointer-events-none" src="/img/fondo.png" alt="">
     <div class="relative z-10">
       <navMenu/> 

@@ -10,15 +10,16 @@
                         <div class="flex flex-col items-center justify-center text-white">
                             <div class="p-3">
                                 <a href="https://twitter.com/DailyCoasters_" target="_blank">
-                                    <img src="../../public/img/TwtterBot.png" alt="" width="300">
+                                    <img src="/img/TwtterBot.png" alt="" width="300">
                                 </a>
                             </div>
                             <h1 class="borde-letra font-bold text-xl text-left w-full pl-3 pr-3 pb-3">Twitter Bot</h1>
                             <span class="pl-3 pr-3 pb-3">A twitter bot that publishes a tweet every 4 hours with
                                 highlighted
                                 information about a totally random roller coaster, through the RCDB API</span>
-                            <div class=" flex text-left w-full pl-3 items-center">
-                                <a href="#" target="_blank"> <!-- CAMBIAR POR URL DEL REPO DE GITHUB -->
+                            <div class="flex justify-between items-center w-full pl-3 pr-3">
+                                <a href="#" target="_blank" style="display: inline-block;">
+                                    <!-- CAMBIAR POR URL DEL REPO DE GITHUB -->
                                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50"
                                         viewBox="0 0 30 30" style="fill:#FFFFFF;">
                                         <path
@@ -26,8 +27,11 @@
                                         </path>
                                     </svg>
                                 </a>
-                                <img class="w-12 pt-1" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+                                <img class="w-12 pt-1"
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+                                    style="display: inline-block;">
                             </div>
+
 
                         </div>
                     </div>

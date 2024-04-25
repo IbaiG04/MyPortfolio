@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white flex items-center justify-center flex-col pt-28">
+  <div class="text-white flex items-center justify-center flex-col">
     <h2 class="text-4xl">About me</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4  p-10 ">
 
