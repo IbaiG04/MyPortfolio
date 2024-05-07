@@ -3,12 +3,13 @@
   <div class="relative overflow-hidden bg-black">
     <img class="fixed inset-0 z-0 object-cover w-full h-full pointer-events-none" src="/img/fondo.png" alt="">
     <div class="relative z-10">
-      <navMenu/> 
+      <navMenu />
+
       <body>
-        
-        
-        <RouterView class="relative z-10"/>
        
+
+        <RouterView class="relative z-10" />
+
       </body>
     </div>
   </div>
@@ -19,10 +20,10 @@ import { RouterView } from 'vue-router'
 import navMenu from './components/navMenu.vue'
 
 export default {
- name: 'App',
- components: {
-  RouterView,
-  navMenu,
- }
+  name: 'App',
+  components: {
+    RouterView,
+    navMenu,
+  }
 }
 </script>
