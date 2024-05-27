@@ -1,8 +1,6 @@
 <template>
-
     <div class="pt-12 flex items-center justify-center flex-col">
         <h1 class="text-white pb-5 text-4xl flex items-center justify-center">My Projects</h1>
-
         <table>
             <tr>
                 <td>

@@ -1,7 +1,6 @@
 <template>
   <div class="text-white  flex-col">
     <div class=" flex-row  text-center pt-32 pb-32">
-
       <div class="wavy text-5xl font-bold bg-clip-text bg-gradient-to-r from-fuchsia-500 via-fuchsia-700 to-violet-700">
         <span style="--i:1" class="text-transparent">I</span>
         <span style="--i:2" class="text-transparent">B</span>
@@ -10,22 +9,13 @@
         <span style="--i:5" class="text-transparent">G</span>
         <span style="--i:6" class="text-transparent">Z</span>
       </div>
-
       <h1 class="pt-4 pb-4  text-3xl">
         <span class=" font-semibold">PORTFOLIO</span>
-
       </h1>
-
       <span class="text-purple-500 text font-semibold">Frontend Developer</span>
-
-
-
     </div>
-    
-
     </div>
   <cardInfoVue />
-
 </template>
 
 <style>
